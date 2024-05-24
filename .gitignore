@@ -1,0 +1,5 @@
+venv/
+requirements-dev.in
+requirements.in
+.DS_Store
+.Virtual_documents/
